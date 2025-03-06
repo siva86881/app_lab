@@ -1,0 +1,516 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.applab{background-image: url(C:\Users\AMARAVATHI\Desktop\march\app lock\Image Assests); }
+.appnav{
+    display: grid;
+    grid-template-columns: auto auto auto;
+    height: 100px;
+    align-items: center;
+}
+.logo{
+    margin-left: 120px;
+}
+.logo h1{
+    height: 60px;
+    width: 122px;
+    text-transform: capitalize;
+}
+.nav{}
+.nav a{
+    text-transform: capitalize;
+    text-decoration: 0;
+    color: blue;
+    margin-left: 59px;
+}
+.but1{}
+.but1 button{
+    padding: 12px 26px;
+    background-color: blue;
+    border: 0;
+    color: #fff;
+    text-transform: capitalize;
+    cursor: pointer;
+    border-radius: 14px;
+    font-size: 15px;
+}
+/* main side conn */
+.bgimg{
+    height: 870px;
+}
+.bgimg img{
+    position: absolute;
+}
+.side{position: absolute;margin-left: 214px;margin-top: 80px;}
+.ph{
+    margin-top: 151px;
+    background-color: #edf3fa;
+    height: 20px;
+    width: 212px;
+    margin-bottom: 34px;
+}
+.ph a{}
+.sidet{
+    width: 50%;
+    margin-bottom: 47px;
+}
+.sidet h1{
+    font-size: 75px;
+    margin-bottom: 15px;
+    text-transform: capitalize;
+}
+.sidet p{}
+.but{
+}
+.but button{
+    padding: 11px 31px;
+    background-color: blue;
+    color: #fff;
+    font-size: 16px;
+    border: 0;
+    border-radius: 16px;
+    cursor: pointer;
+    text-transform: capitalize;
+}
+.but a{
+    margin-left: 91px;
+    text-decoration: 0;
+}
+/* main side pick */
+.sidepick{
+    margin-left: 60%;
+}
+.sidepick img{
+    margin-top: 20px;
+}
+
+/* second sheet */
+.secondsect{
+    margin-top: 33px;
+    margin-left: 12px;
+    height: 1484px;
+}
+.logos2{}
+.logos2 p{
+    text-align: center;
+    text-transform: capitalize;
+    font-size: 15px;
+}
+.comlogos{
+    margin-left: 81px;
+}
+.comlogos img{
+    height: 181px;
+    margin-left: 53px;
+}
+/* awesome app  */
+.moblogo{}
+.moblogopic{
+    position: absolute;
+    margin-top: 96px;
+}
+.moblogopic img{}
+.mobconn{
+    position: absolute;
+    margin-left: 50%;
+    margin-top: 126px;
+}
+.conne{
+    width: 351px;
+}
+.conne h2{
+    text-transform: capitalize;
+    font-size: 30px;
+}
+.conne p{
+    margin-top: 12px;
+}
+.mob{
+    margin-top: 92px;
+}
+.mob1{
+    display: flex;
+    margin-top: 28px;
+}
+.mob1 img{}
+.mobcon{
+    margin-left: 29px;
+    margin-top: 10px;
+    width: 238px;
+}
+.mobcon h3{
+    text-transform: capitalize;
+    color: red;
+}
+.mobcon p{
+    margin-top: 13px;
+}
+/* jackpot */
+.jackpot{
+    margin-top: 1048px;
+    display: flex;
+    height: 142px;
+}
+.jhright{
+    margin-left: 21%;
+}
+.jhright h1{
+    margin-right: 55px;
+    font-size: 40px;
+}
+.jclift{width: 28%;border-left: solid 2px;}
+.jclift p{
+    margin-left: 55px;
+    margin-top: 43px;
+}
+/* 2section */
+.section2{
+    margin-left: 12px;
+    height: 1000px;
+}
+.secmob{
+    display: flex;
+    justify-content: center;
+    gap: 120px;
+}
+.info{margin-left: 79px;}
+.conne1{
+    width: 351px;
+    margin-top: 120px;
+    margin-left: 120px;
+}
+.conne1 h2{
+    text-transform: capitalize;
+    font-size: 30px;
+}
+.conne1 p{
+    margin-top: 12px;
+}
+.buutt{
+    margin-left: 120px;
+}
+.buutt button{
+    padding: 11px 23px;
+    margin-top: 79px;
+    background-color: blue;
+    border: 0;
+    color: #fff;
+    font-size: 17px;
+    text-transform: capitalize;
+    border-radius: 17px;
+    cursor: pointer;
+}
+
+/* section 3 */
+.section3{
+    height: 670px;
+}
+.ourappcn{
+    text-align: center;
+}
+.ourappcn h1{
+    text-transform: capitalize;
+    font-size: 31px;
+}
+.ourappcn p{
+    width: 517px;
+    margin-left: 492px;
+    margin-top: 12px;
+}
+.appicon{
+    display: flex;
+    justify-content: center;
+    gap: 95px;
+}
+.firsticons{}
+.icon1{
+}
+.icon1 img{
+    border: solid 1px;
+    height: 63px;
+    width: 63px;
+    border-radius: 63px;
+    margin-left: 77px;
+    margin-top: 54px;
+    margin-bottom: 21px;
+}
+.icon1 h1{
+    font-size: 16px;
+    margin-left: 42px;
+    text-transform: capitalize;
+    margin-bottom: 9px;
+    font-size: 19px;
+}
+.icon1 P{
+    width: 243px;
+}
+/* section4 */
+.section4{
+    height: 900px;
+}
+.appicons{
+    display: flex;
+    gap: 109px;
+    margin-left: 204px;
+}
+.features{
+    margin-left: 200px;
+    margin-top: 120px;
+}
+.features h1{
+    text-transform: capitalize;
+    font-size: 31px;
+}
+.features p{
+    width: 517px;
+    margin-top: 12px;
+}
+.sec4img{
+}
+.sec4img img{
+    height: 569px;
+}
+/* section5 */
+.section5{
+    height: 750px;
+}
+.buttm{
+    margin-left: 44%;
+    margin-top: 67px;
+    width: 209px;
+    display: flex;
+    justify-content: center;
+    background-color: #a396a8;
+    color: #fff;
+    height: 38px;
+    border-radius: 18px;
+}
+.buttm button{
+    padding: 0 39px;
+    margin-right: 26px;
+    background-color: blue;
+    color: #fff;
+    text-transform: capitalize;
+    border: 0;
+    border-radius: 19px;
+    margin-left: 13px;
+}
+.buttm p{
+    margin-top: 8px;
+    margin-right: 38px;
+}
+
+.container{
+    display: flex;
+    justify-content: center;
+    margin-top: 78px;
+    gap: 54px;
+}
+.free{
+    height: 320px;
+    width: 132px;
+    padding: 11px 37px;
+    /* border: solid; */
+    background-color: #f9f1f1;
+}
+.free h1{
+    font-size: 22px;
+    margin-left: -3px;
+}
+.free h3{
+    text-transform: capitalize;
+}
+.free p{
+    font-size: 13px;
+    margin-top: -1px;
+    margin-bottom: 20px;
+}
+.free ul{}
+.free ul li{
+    list-style: none;
+    line-height: 30px;
+}
+.free button{
+    margin-top: 33px;
+    margin-left: 2px;
+    padding: 7px 18px;
+    background-color: blue;
+    border: 0;
+    border-radius: 16px;
+    color: #fff;
+    text-transform: capitalize;
+    cursor: pointer;
+}
+.free:hover{
+    color: #c8320c;
+    transition: (1.1);
+}
+/* section5 */
+.section6{
+    height: 750px;
+    margin-top: 120px;
+    width: 100%;
+    display: flex;
+}
+.revies{}
+.mapimg{}
+.mapimg img{
+    height: 400px;
+    position: absolute;
+    width: 607px;
+}
+.revs{}
+.firs{}
+.firs img{
+    height: 50px;
+    width: 50px;
+    border-radius: 80px;
+    margin-left: 298px;
+    position: relative;
+    margin-top: 120px;
+}
+.firs1{
+    position: absolute;
+}
+.firs1 img{
+    height: 50px;
+    width: 50px;
+    border-radius: 80px;
+    margin-left: 106px;
+    position: relative;
+}
+/* side */
+.sidemap{
+    margin-left: 26%;
+}
+.hmap{
+    width: 554px;
+}
+.hmap h1{
+    margin-bottom: 12px;
+}
+.hmap p{
+    margin-bottom: 51px;
+}
+.stars{
+    margin-bottom: 15px;
+}
+.stars i{}
+.rpic{
+    display: flex;
+}
+.ri{}
+.ri img{
+    width: 80px;
+    height: 80px;
+    border-radius: 56px;
+}
+.new{
+    margin-left: 20px;
+}
+.new img{}
+.new h1{
+    text-transform: capitalize;
+}
+.new p{
+    float: left;
+}
+.new i{
+    margin-left: 215px;
+    font-size: 25px;
+}
+/* section7 */
+.section7{
+    height: 750px;
+}
+/* section8 */
+.section8{
+    display: flex;
+}
+.rhing{
+    margin-left: 144px;
+}
+.rhing h1{
+    font-size: 41px;
+    text-transform: capitalize;
+    margin-bottom: 16px;
+}
+.rhing p{}
+.rhing img{
+    height: 100px;
+    width: 250px;
+    margin-top: 38px;
+}
+.lhing{}
+.lhing img{
+    width: 921px;
+    height: 327px;
+}
+
+
+/* footer */
+.appnav1{
+    text-align: center;
+}
+.logo1{
+    margin-left: 667px;
+}
+.logo1 h1{
+    height: 60px;
+    width: 122px;
+    text-transform: capitalize;
+    color: #fff;
+}
+.nav1{
+    margin-top: 52px;
+    margin-right: 58px;
+}
+.nav1 a{
+    text-transform: capitalize;
+    text-decoration: 0;
+    color: #fff;
+    margin-right: 21px;
+}
+.copyright{
+    margin-top: 89px;
+    margin-right: 65px;
+}
+.copyright p{
+    color: #fff;
+}
+.formse7{
+    margin-left: 290px;
+    margin-top: 120px;
+}
+.frst7{
+    height: 134px;
+    width: 80%;
+    background-color: #d6efed;
+}
+.frst7 h1{
+    margin-left: 66px;
+    padding: 17px 1px;
+}
+.frst7 p{
+    margin-left: 65px;
+    margin-top: -6px;
+}
+.frsrbutt{
+    margin-top: 9px;
+}
+.inp1{
+    display: flex;
+    margin-top: 13px;
+    height: 20px;
+    padding: 10px 0px;
+    width: 80%;
+    background-color: #d6efed;
+}
+.inp1 h5{
+    margin-left: 70px;
+    text-transform: capitalize;
+}
+.inp1 i{
+    margin-left: 48%;
+}
