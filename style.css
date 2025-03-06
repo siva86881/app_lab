@@ -1,4 +1,7 @@
-
+*{
+    margin: 0px;
+    padding: 0px;
+}
 .applab{background-image: url(C:\Users\AMARAVATHI\Desktop\march\app lock\Image Assests); }
 .appnav{
     display: grid;
@@ -49,7 +52,7 @@
 }
 .ph a{}
 .sidet{
-    width: 50%;
+    width: 70%;
     margin-bottom: 47px;
 }
 .sidet h1{
